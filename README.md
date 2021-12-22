@@ -3,13 +3,13 @@ Homework assignment for data science bootcamp, October 2021
 
 ## Table of Contents
 * [About](#about)
-* [DataSources](#datasources)
+* [Data Sources](#datasources)
 * [Analysis and Thoughts](#analysisandthoughts)
 
 ## About
 
 ## Procedure
-The data were extracted from the two files (see [DataSources](#datasources)) and put into Pandas DataFrames which were then merged. 
+The data were extracted from the two files (see [Data Sources](#datasources)) and put into Pandas DataFrames which were then merged. 
 
 ## Data Sources
 The data for this challenge can be found in the following two files:
