@@ -16,9 +16,9 @@ As a senior data analyst at the company, you've been given access to the complet
 
 Your tasks are to do the following:
 
-* Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
+X Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
 
-* Use the cleaned data for the remaining steps.
+X Use the cleaned data for the remaining steps.
 
 * Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
