@@ -16,6 +16,9 @@ Homework assignment for data science bootcamp, October 2021
 * The .loc function was used to remove all instances of the duplicated mouse. 
   * There were 249 mice originally, now there are 248 mice in the DataFrame. 
   * There were 13 rows removed, even though there were only 10 rows with duplicate Mouse ID and Timepoint. 
+* A summary table was created using df.groupby() and the .mean(), .median(), .var(), .std() and .sem() groupby object functions and pd.DataFrame(). A second summary table was created in one line using df.groupby() and the .agg() groupby object function. 
+* Bar and pie charts were created using both Pandas and pyplot. 
+
 
 ## Data Sources
 The data for this challenge can be found in the following two files:
