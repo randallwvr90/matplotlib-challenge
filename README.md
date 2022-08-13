@@ -3,8 +3,8 @@ Homework assignment for data science bootcamp, October 2021
 
 ## Table of Contents
 * [About](#about)
-* [Data Sources](#datasources)
-* [Observations and Insights](#observationsandinsights)
+* [Data Sources](#data-sources)
+* [Observations and Insights](#observations-and-insights)
 
 ## About
 * This is the matplotlib homework assignment for the GT Data Science Bootcamp. The challenge is to demonstrate the ability to import data and display it using Pandas and Matplotlib.  
