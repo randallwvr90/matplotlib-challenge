@@ -3,7 +3,7 @@ Homework assignment for data science bootcamp, October 2021
 
 ## Table of Contents
 * [About](#about)
-* [Data Sources](#datasources)
+* [Data Sources](#data sources)
 * [Observations and Insights](#observationsandinsights)
 
 ## About
